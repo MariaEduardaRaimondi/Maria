@@ -1,0 +1,10 @@
+.container{
+    display: flex;
+}
+
+#p1, #p2, #p3{
+    flex: 1;
+    border: 1px solid #000000;
+    padding: 20px;
+    text-align: center;
+}
